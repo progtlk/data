@@ -1,0 +1,18 @@
+﻿study,TE,seTE,treat1,treat2,n
+None vs Placebo,1.2,0.16,None,Placebo,0
+LMWH_low vs Placebo,1.13,0.12,LMWH_low,Placebo,5
+LMWH_int vs Placebo,0.95,0.07,LMWH_int,Placebo,7
+UFH_low vs Placebo,1.09,0.58,UFH_low,Placebo,1
+UFH_int vs Placebo,1.13,0.13,UFH_int,Placebo,0
+Pentasaccharides vs Placebo,0.52,0.2,Pentasaccharides,Placebo,1
+DOACs vs Placebo,1.09,0.24,DOACs,Placebo,0
+UFH_low vs None,1.31,,UFH_low,None,3
+UFH_low vs UFH_int,1.23,,UFH_low,UFH_int,1
+UFH_low vs LMWH_low,1.23,,UFH_low,LMWH_low,3
+UFH_low vs LMWH_int,1.04,,UFH_low,LMWH_int,4
+UFH_int vs None,1.31,,UFH_int,None,1
+UFH_int vs LMWH_low,1.28,,UFH_int,LMWH_low,5
+UFH_int vs LMWH_int,1.07,,UFH_int,LMWH_int,4
+LMWH_int vs DOAC,1.04,,LMWH_int,DOAC,1
+LMWH_int vs LMWH_low,1.07,,LMWH_int,LMWH_low,3
+Pentasaccharides vs None,0.62,,Pentasaccharides,None,0
